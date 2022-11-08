@@ -21,6 +21,7 @@
 <div align="center">
 
   <h1 align="center">乐健体育自动化脚本</h1>
+  <h2 align="center">已失效。“签到失败，APP版本过低，请尽快升级！”</h2>
 
   **本脚本程序及其任何修改版本严禁用于任何非法用途**
 
